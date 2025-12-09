@@ -2,7 +2,7 @@
   <div class="layout">
     <Header />
     <main class="main">
-      <Todo />
+      <RouterView />
     </main>
     <Footer />
   </div>
